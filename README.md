@@ -1,2 +1,3 @@
 # git-workflow-rebase
-Simple repository to describe a git workflow using rebase
+Simple repository to try out git rebase
+
